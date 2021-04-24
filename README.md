@@ -1,2 +1,2 @@
 # LT_Profile
-Расчёт профиля нагрузочного тестирования в Excel
+Calculating Of load testing profile in Excel.
